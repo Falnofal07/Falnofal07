@@ -1,8 +1,32 @@
-👋 Hi, I’m @Falnofal07
-👀 I’m interested in Programming and exploring new technologies.
-🌱 I’m currently learning Web Development to enhance my skills.
-💞️ I’m looking to collaborate on open-source projects, tech tutorials, and innovative software solutions.
-📫 How to reach me: naufalradithya07@gmail.com 
-😄 Pronouns: He/Him
-⚡ Fun fact: I enjoy solving coding challenges and learning new programming languages in my free time.
+# 👋 Hi, I’m [@Falnofal07](https://github.com/Falnofal07)
 
+---
+
+## 🚀 About Me  
+- I’m a **Software Engineering student** passionate about programming and new technologies.  
+- Currently learning **Web Development** to enhance my skills.  
+- Looking to collaborate on **open-source projects** and **tech tutorials**.
+
+---
+
+## 🛠️ Technologies I Work With  
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
+
+---
+
+## 📫 Reach Me  
+Feel free to contact me at:  
+**✉️ Email**: [naufalradithya07@gmail.com](mailto:naufalradithya07@gmail.com)
+
+---
+
+## ⚡ Fun Facts  
+- I enjoy solving coding challenges.  
+- Passionate about learning new programming languages in my free time.  
+- **💡 Always curious** about how things work under the hood.
+
+---
+
+## 😄 Pronouns  
+**He/Him**
